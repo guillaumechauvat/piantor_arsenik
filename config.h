@@ -125,8 +125,8 @@
 // options are toggled at the same time, the first one is chosen.
 // #define ARSENIK_HOST_LAYOUT_QWERTY
 // #define ARSENIK_HOST_LAYOUT_AZERTY
-// #define ARSENIK_HOST_LAYOUT_ERGOL
+#define ARSENIK_HOST_LAYOUT_ERGOL
 // #define ARSENIK_HOST_LAYOUT_BEPO
 // #define ARSENIK_HOST_LAYOUT_DVORAK
-#define ARSENIK_HOST_LAYOUT_COLEMAK
+// #define ARSENIK_HOST_LAYOUT_COLEMAK
 // #define ARSENIK_HOST_LAYOUT_WORKMAN
