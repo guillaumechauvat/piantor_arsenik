@@ -109,7 +109,7 @@
  * (Requires `ARSENIK_ENABLE_SELENIUM_VARIANT`)
  */
 
-#define SELENIUM_RESTORE_SPACE
+//#define SELENIUM_RESTORE_SPACE
 /* Having Space accessible to only one thumb may create some problems, especially
  * when trying to type Shift + Space or Lafayette / AltGr + Space (depending if
  * your space key is on your left or right hand). When active, backspace gets
