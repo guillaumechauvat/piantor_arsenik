@@ -54,7 +54,7 @@
 // can pick and choose them by (un)commenting the different `#define`
 // declarations.
 
-#define ARSENIK_ENABLE_LAFAYETTE_LAYER
+// #define ARSENIK_ENABLE_LAFAYETTE_LAYER
 /* When active, gives access to the programming symbols layer used by layouts
  * like Ergo‑L and all of the "Lafayette" familly of layouts (it’s their AltGr
  * layer). The definition of this layer depends on the keyboard layout you are
