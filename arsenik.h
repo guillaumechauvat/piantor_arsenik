@@ -60,7 +60,7 @@
 #    define AS_TR_HOME  KC_SPC
 #    define AS_TR_TUCK  LAFAYETTE
 #elif defined ARSENIK_ENABLE_SELENIUM_VARIANT
-#    define AS_TL_REACH XX
+#    define AS_TL_REACH KC_APP
 #    define AS_TR_REACH XX
 #    define AS_TL_TUCK  LT(_vim_nav, KC_ESC)
 #    define AS_TR_TUCK  LT(_num_row, KC_ENT)
